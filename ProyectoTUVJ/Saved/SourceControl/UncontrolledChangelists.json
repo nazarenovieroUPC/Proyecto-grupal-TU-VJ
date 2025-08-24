@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/thebr/Desktop/Facu/Segundo Cuatrimestre/Juego Grupal/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Interfaz/WBP_Menu.uasset",
+				"C:/Users/thebr/Desktop/Facu/Segundo Cuatrimestre/Juego Grupal/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/LVL_Menu.umap",
+				"C:/Users/thebr/Desktop/Facu/Segundo Cuatrimestre/Juego Grupal/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/lvl_Principal.umap"
+			]
+		}
+	]
+}
