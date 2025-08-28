@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Character/BP_CharacterPlayable.uasset",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Character/BP_PlayerCharacter.uasset",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/GameModes/BP_GameModeLVLPrincipal.uasset",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Inputs/InputsAction/IA_Movement.uasset",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Inputs/IMC_Default.uasset",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/lvl_Principal.umap",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Character/BP_CharacterBase.uasset",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Levels/TestLevel.umap",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Levels/LVL_Menu.umap",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/LVL_Menu.umap",
+				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Levels/lvl_Principal.umap",
 				"C:/Users/thebr/Desktop/Facu/Segundo Cuatrimestre/Juego Grupal/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Interfaz/WBP_Menu.uasset",
 				"C:/Users/thebr/Desktop/Facu/Segundo Cuatrimestre/Juego Grupal/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/LVL_Menu.umap",
 				"C:/Users/thebr/Desktop/Facu/Segundo Cuatrimestre/Juego Grupal/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/lvl_Principal.umap"
