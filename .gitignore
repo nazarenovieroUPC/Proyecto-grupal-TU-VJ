@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# No subir binarios ni builds
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.pdb
+*.ucas
+*.pak
+*.utoc
