@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thebr/OneDrive/Escritorio/Facu/Juego grupal segundo cautri/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Blueprints/Characters/PlayerCharacter/BP_PlayerCharacter.uasset",
+				"C:/Users/thebr/OneDrive/Escritorio/Facu/Juego grupal segundo cautri/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Blueprints/Characters/PlayerCharacter/BP_Attack.uasset",
+				"C:/Users/thebr/OneDrive/Escritorio/Facu/Juego grupal segundo cautri/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Blueprints/UI/WBP_Interfaz.uasset",
+				"C:/Users/thebr/OneDrive/Escritorio/Facu/Juego grupal segundo cautri/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Blueprints/Components/BPC_Life.uasset",
+				"C:/Users/thebr/OneDrive/Escritorio/Facu/Juego grupal segundo cautri/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Blueprints/Actors/BP_DamageObject.uasset",
+				"C:/Users/thebr/OneDrive/Escritorio/Facu/Juego grupal segundo cautri/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Blueprints/Characters/Enemy/BP_Enemy.uasset",
+				"C:/Users/thebr/OneDrive/Escritorio/Facu/Juego grupal segundo cautri/Proyecto-grupal-TU-VJ/ProyectoTUVJ/Content/Blueprints/Characters/Mannager/BP_ManagerEnemy.uasset",
 				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto Grupal TUVJ/ProyectoTUVJ/Content/Blueprints/Components/BPC_Life.uasset",
 				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto Grupal TUVJ/ProyectoTUVJ/Content/Blueprints/Actors/BP_DamageObject.uasset",
 				"D:/Programacion/Videojuegos/TU Videojuegos/Unreal Projects/Proyecto Grupal TUVJ/ProyectoTUVJ/Content/Blueprints/Actors/BP_DestructibleObject.uasset",
