@@ -3,7 +3,7 @@ Nombre grupo: Erythrina Studios
 Proyecto: Ceibo: La Flor del Fuego
 
 Integrantes:
-Valentina Sarcuno
-Gabriela Itatí Cisnero Coria
-Nazareno Viero
-Bruno Ezequiel Carballo
+Valentina Sarcuno - Productora y Artista.
+Gabriela Itatí Cisnero Coria - Artista.
+Nazareno Viero - Programador.
+Bruno Ezequiel Carballo - Programador.
